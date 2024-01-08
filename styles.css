@@ -5,7 +5,12 @@ header {}
 
 body {background-color:lightcyan;} 
 
-nav { } 
+nav { 
+border: 2px solid navy; /* You can customize the color by changing #000 (black) */
+padding: 15px; /* Optional: Add padding for better visual appearance */
+text-align: center;
+display: flex
+} 
 
 h1 {color:navy;
     text-align:left;> } 
