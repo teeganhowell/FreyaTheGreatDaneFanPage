@@ -10,13 +10,22 @@ border: 2px solid navy; /* You can customize the color by changing #000 (black) 
 padding: 15px; /* Optional: Add padding for better visual appearance */
 text-align: center;
 display: inline-flex
-  
-} 
+  } 
+
+li {
+  display: inline; padding: 8px;
+}
+nav a {font-weight: bold; font-size: 20}
+
+
+
 
 h1 {color:navy;
     text-align:left;> } 
 
 h2 {text-align:left;} 
+
+h3 {text-align:center}
 
 ul {color:navy;left }
 </body>
