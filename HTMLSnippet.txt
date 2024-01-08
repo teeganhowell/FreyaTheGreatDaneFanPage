@@ -1,0 +1,36 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title></title>
+ <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+   <style>
+body {
+background-color:lightcyan;
+}
+
+h1 {
+color:navy;
+    text-align:left;> 
+}
+h2 {
+text-align:left;
+}
+ul {
+color:navy;left
+}
+</style>
+<header> 
+
+Visual header/site info
+</header>
+<nav>
+Navigation menu (links to other pages) goes here
+</nav>
+
+The content of the document goes here
+
+</body>
+
+</html> 
