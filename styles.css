@@ -2,27 +2,29 @@
 
 header {} 
 
-body {background-color:lightcyan;} 
+body {background-color:lightcyan; font-family: sans-serif} 
 
 nav { 
 border: 2px solid navy; /* You can customize the color by changing #000 (black) */
-padding: 15px; /* Optional: Add padding for better visual appearance */
+padding: 20px; /* Optional: Add padding for better visual appearance */
 text-align: center;
-display: inline-flex
+display: inline-flex: background-color:white;
   } 
 
 li {
   display: inline; padding: 8px;
 }
-nav a {font-weight: bold; font-size: 20}
+
+/* Styling the navigation link*/
+nav a {font-weight: bold; font-size: 30; display: inline-block padding: 15px 20px;font-family: sans-serif}
 
 
 
-h1 {color:navy;
+h1 {font-family: sans-serif;color:navy;
     text-align:left;> } 
 
-h2 {text-align:left;} 
+h2 {font-family: sans-serif;text-align:left;} 
 
-h3 {text-align:center;font-size: 40 }
+h3 {font-family: sans-serif;text-align:center;font-size: 40 }
 
-ul {color:navy;left }
+ul {font-family: sans-serif;color:navy;display: inline-block}
