@@ -1,6 +1,5 @@
  <!DOCTYPE css>
-<html>
-<body>
+
 header {} 
 
 body {background-color:lightcyan;} 
@@ -27,5 +26,3 @@ h2 {text-align:left;}
 h3 {text-align:center;font-size: 40 }
 
 ul {color:navy;left }
-</body>
-</html>
