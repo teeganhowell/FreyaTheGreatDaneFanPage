@@ -11,10 +11,11 @@ text-align: center;
 display: inline-flex: background-color:white;
   } 
 
-li {display: inline; padding: 8px;
+.nav li {display: inline; padding: 10px
 }
 
-/* Styling the navigation link*/
+.index li {text-align: left}
+
 nav a {font-weight: bold; font-size: 30; display: inline-block padding: 15px 20px;font-family: sans-serif}
 
 
@@ -25,6 +26,10 @@ h1 {font-family: sans-serif;color:navy;
 h2 {font-family: sans-serif;text-align:left;} 
 
 h3 {font-family: sans-serif;text-align:center;font-size: 40 }
+
+h4 {font-family: sans-serif;text-align:left;font-size: 18;font-weight: bold }
+
+
 
 ul{font-family: sans-serif;color:navy;text-align: left}
 
