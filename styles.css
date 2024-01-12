@@ -33,3 +33,5 @@ ul{font-size: 15 font-family: sans-serif;color:navy;text-align: left}
   margin-right: auto;
   width: 50%;
 }
+
+img {object-fit: scale-down}
